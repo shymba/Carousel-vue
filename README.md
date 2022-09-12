@@ -1,6 +1,6 @@
 Little app using Composition API
 
-To see the Demo [click] (https://shymba.github.io/Carousel-vue/)
+To see the Demo [click](https://shymba.github.io/Carousel-vue/)
 
 
 
