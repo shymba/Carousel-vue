@@ -1,3 +1,9 @@
+Little app using Composition API
+
+To see the Demo (click) (https://shymba.github.io/Carousel-vue/)
+
+
+
 # app
 
 ## Project setup
